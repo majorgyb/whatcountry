@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	wc, err := whatcountry.LoadCountries("../data/ne_10m_admin_1_states_provinces.geojson")
+	wc, err := whatcountry.LoadCountries("$GOPATH/pkg/mod/github.com/jakoblo/whatcountry/data/ne_10m_admin_1_states_provinces.geojson")
 	if err != nil {
 		log.Fatal(err)
 	}

@@ -1,4 +1,4 @@
-# Changes to the country file:
+# Changes in the country file:
 
-Northern Cyprus: iso_a2 > CY
+Northern Cyprus: iso_a2 > CY  
 Somaliland: iso_a2 > SO
