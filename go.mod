@@ -1,4 +1,4 @@
-module github.com/jakoblo/whatcountry
+module github.com/majorgyb/whatcountry
 
 go 1.16
 
